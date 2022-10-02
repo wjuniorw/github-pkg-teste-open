@@ -1,5 +1,5 @@
 {
-  "name": "wjuniorw/github-pkg-teste-open",
+  "name": "@wjuniorw/github-pkg-teste-open",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/wjuniorw"
   },
